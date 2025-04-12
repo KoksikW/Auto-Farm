@@ -47,7 +47,7 @@ footerLabel.BackgroundTransparency = 1
 footerLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 footerLabel.Font = Enum.Font.SourceSansSemibold
 footerLabel.TextSize = 16
-footerLabel.Text = "By bestik_"
+footerLabel.Text = "By Koksik"
 footerLabel.Parent = mainFrame
 
 -- Прокручиваемая область для кнопок
@@ -437,7 +437,7 @@ end
 
 --======================= Teleport Farm =========================--
 local TPFarm_Enabled = false
-local TPFarm_TargetName = "h4rtbrkrW"
+local TPFarm_TargetName = ""
 
 -- Сохраняем все подключения, чтобы отключать при Disable
 local TPFarm_SteppedConnection = nil
