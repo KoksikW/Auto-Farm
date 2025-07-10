@@ -36,7 +36,7 @@ titleBar.BackgroundColor3 = Color3.fromRGB(80, 80, 80)
 titleBar.TextColor3 = Color3.fromRGB(255, 255, 255)
 titleBar.Font = Enum.Font.SourceSansBold
 titleBar.TextSize = 18
-titleBar.Text = "Чёрно хаб (Drag / Press K to show/hide)"
+titleBar.Text = "Sigma hub (Drag / Press K to show/hide)"
 titleBar.Parent = mainFrame
 
 -- Подпись внизу
